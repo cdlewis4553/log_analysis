@@ -1,0 +1,1 @@
+Timestamp,IP_src,IP_dst,TCPport_src,TCPport_dst,SMBcommand,SMBsubcommand,MessageId,ReqResp,status,TreeID,SessionID,FileID,(OpenPermissions),(FileSize),(filename),(dataOffset),(dataLength),(newFileName)
